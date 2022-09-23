@@ -110,3 +110,5 @@ Git - это программа для контроя версий. Нужна �
 
     git checkout branch_name
 
+some unnecessasry changes
+
